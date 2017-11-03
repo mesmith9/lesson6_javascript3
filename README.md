@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+November 3, 2017
 
 ### Student Name:  
-(First and Last Name)
+Mary Smith
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In Lesson 6, I learned how to use the Document Object Model (DOM) to access and manipulate nodes and elements in HTML and Javascript.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://mesmith9.github.io/lesson6_javascript3/.
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned the difference in accessing Element/Elements by using getElementsByTagName and getElementById.
+2. I learned how to create, remove, and clone Parent and Child Nodes.
+3. I learned how to apply an event handler/listener to an element.
